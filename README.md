@@ -89,11 +89,7 @@ face-landmark-detection/
 ├── dataset.py         # Dataset & transformations
 ├── model.py           # ResNet18 model definition
 ├── train.py           # Training & validation loop
-├── utils.py           # Helper functions (plotting, printing)
-├── demo.ipynb         # Jupyter Notebook demo
-├── requirements.txt   # Dependencies
-├── README.md          # Documentation
-└── results/           # Sample predictions
+
 ```
 
 ---
