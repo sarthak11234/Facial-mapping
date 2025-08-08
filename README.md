@@ -64,21 +64,6 @@ Open **`demo.ipynb`** in Jupyter Notebook or VS Code and execute the cells.
 
 ---
 
-## 📊 Results
-
-### Example Predictions
-| Input Image | Predicted Landmarks |
-|-------------|---------------------|
-| ![](results/sample1.jpg) | ![](results/sample1_pred.jpg) |
-| ![](results/sample2.jpg) | ![](results/sample2_pred.jpg) |
-
----
-
-## 📈 Training Loss Curve
-*(Add your loss curve image here)*
-
----
-
 ## 🛠 Requirements
 - Python 3.8+
 - PyTorch
